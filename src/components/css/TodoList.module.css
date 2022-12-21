@@ -1,0 +1,18 @@
+.btn {
+  margin-left: 16px;
+}
+.list {
+  margin-top: 24px;
+  padding: 8px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.list:hover {
+  background-color: rgba(157, 157, 225, 0.589);
+  border-radius: 8px;
+}
+.close {
+  color: grey;
+  text-decoration: line-through;
+}
